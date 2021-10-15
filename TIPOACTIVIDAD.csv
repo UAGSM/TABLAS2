@@ -1,17 +1,17 @@
 CLAVE,NOMBRE,NIVEL
 1, manejar,Muy Leve
-2, en posición sentada y de piepintar,Muy Leve
-3,en posición sentada y de pie trabajo de laboratorio,Muy Leve
-4, computación,Muy Leve
-5,en posición sentada y de pie coser,Muy Leve
-6,en posición sentada y de pie planchar,Muy Leve
-7,en posición sentada y de pie cocinar,Muy Leve
-8,en posición sentada y de pie tocar un instrumento musical,Muy Leve
+2, en posicion sentada y de piepintar,Muy Leve
+3,en posicion sentada y de pie trabajo de laboratorio,Muy Leve
+4, computacion,Muy Leve
+5,en posicion sentada y de pie coser,Muy Leve
+6,en posicion sentada y de pie planchar,Muy Leve
+7,en posicion sentada y de pie cocinar,Muy Leve
+8,en posicion sentada y de pie tocar un instrumento musical,Muy Leve
 9, Caminar ,Muy Leve
-10, trabajos eléctricos ,Actividad leve
+10, trabajos electricos ,Actividad leve
 11, trabajo en restaurante ,Actividad leve
 12, limpieza de casa ,Actividad leve
-13, cuidado de los niños ,Actividad leve
+13, cuidado de los ninos ,Actividad leve
 14, golf ,Actividad leve
 15, tenis de mesa,Actividad leve
 16, Caminar vigorosamente ,Actividad leve
@@ -22,13 +22,13 @@ CLAVE,NOMBRE,NIVEL
 21, tenis ,Actividad moderada
 22, llevar una carga,Actividad moderada
 23,Caminar con carga,Actividad moderada
-24,tala de árboles ,Actividad intensa
-25,excavación,Actividad intensa
-26,básquetbol ,Actividad intensa
+24,tala de arboles ,Actividad intensa
+25,excavacion,Actividad intensa
+26,basquetbol,Actividad intensa
 27,escalar ,manual intensa 
 28,futbol ,manual intensa 
 29,correr ,manual intensa 
-30,natación ,manual intensa 
+30,natacion,manual intensa 
 31,ciclismo con pendiente ,manual intensa 
 32,aerobics,manual intensa 
 33,Atletas de alto rendimiento,manual intensa 
