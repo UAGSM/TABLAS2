@@ -1,35 +1,35 @@
-CLAVE,NOMBRE,NIVEL
-1, manejar,Muy Leve
-2, en posicion sentada y de piepintar,Muy Leve
-3,en posicion sentada y de pie trabajo de laboratorio,Muy Leve
-4, computacion,Muy Leve
-5,en posicion sentada y de pie coser,Muy Leve
-6,en posicion sentada y de pie planchar,Muy Leve
-7,en posicion sentada y de pie cocinar,Muy Leve
-8,en posicion sentada y de pie tocar un instrumento musical,Muy Leve
-9, Caminar ,Muy Leve
-10, trabajos electricos ,Actividad leve
-11, trabajo en restaurante ,Actividad leve
-12, limpieza de casa ,Actividad leve
-13, cuidado de los ninos ,Actividad leve
-14, golf ,Actividad leve
-15, tenis de mesa,Actividad leve
-16, Caminar vigorosamente ,Actividad leve
-17, cortar el pasto ,Actividad moderada
-18, bailar ,Actividad moderada
-19, ciclismo en superficie plana,Actividad moderada
-20, esquiar ,Actividad moderada
-21, tenis ,Actividad moderada
-22, llevar una carga,Actividad moderada
-23,Caminar con carga,Actividad moderada
-24,tala de arboles ,Actividad intensa
-25,excavacion,Actividad intensa
-26,basquetbol,Actividad intensa
-27,escalar ,manual intensa 
-28,futbol ,manual intensa 
-29,correr ,manual intensa 
-30,natacion,manual intensa 
-31,ciclismo con pendiente ,manual intensa 
-32,aerobics,manual intensa 
-33,Atletas de alto rendimiento,manual intensa 
-34,Atletas de alto rendimiento,Excepcional
+CLAVE,NOMBRE,NIVEL,H_FACTOR,M_FACTOR
+1, manejar,Muy Leve,1.2,1.2
+2, en posicion sentada y de piepintar,Muy Leve,1.2,1.2
+3,en posicion sentada y de pie trabajo de laboratorio,Muy Leve,1.2,1.2
+4, computacion,Muy Leve,1.2,1.2
+5,en posicion sentada y de pie coser,Muy Leve,1.2,1.2
+6,en posicion sentada y de pie planchar,Muy Leve,1.2,1.2
+7,en posicion sentada y de pie cocinar,Muy Leve,1.2,1.2
+8,en posicion sentada y de pie tocar un instrumento musical,Muy Leve,1.2,1.2
+9, Caminar ,Muy Leve,1.2,1.2
+10, trabajos electricos ,Actividad leve,1.3,1.3
+11, trabajo en restaurante ,Actividad leve,1.3,1.3
+12, limpieza de casa ,Actividad leve,1.3,1.3
+13, cuidado de los ninos ,Actividad leve,1.3,1.3
+14, golf ,Actividad leve,1.3,1.3
+15, tenis de mesa,Actividad leve,1.3,1.3
+16, Caminar vigorosamente ,Actividad leve,1.3,1.3
+17, cortar el pasto ,Actividad moderada,1.6,1.5
+18, bailar ,Actividad moderada,1.6,1.5
+19, ciclismo en superficie plana,Actividad moderada,1.6,1.5
+20, esquiar ,Actividad moderada,1.6,1.5
+21, tenis ,Actividad moderada,1.6,1.5
+22, llevar una carga,Actividad moderada,1.6,1.5
+23,Caminar con carga,Actividad moderada,1.6,1.5
+24,tala de arboles ,Actividad intensa,1.7,1.6
+25,excavacion,Actividad intensa,1.7,1.6
+26,basquetbol,Actividad intensa,1.7,1.6
+27,escalar ,manual intensa ,2.1,1.9
+28,futbol ,manual intensa ,2.1,1.9
+29,correr ,manual intensa ,2.1,1.9
+30,natacion,manual intensa ,2.1,1.9
+31,ciclismo con pendiente ,manual intensa ,2.1,1.9
+32,aerobics,manual intensa ,2.1,1.9
+33,Atletas de alto rendimiento,manual intensa ,2.1,1.9
+34,Atletas de alto rendimiento,Excepcional,2.4,2.2
