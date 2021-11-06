@@ -1,0 +1,23 @@
+CLAVE,NOMBRE
+VERD_151,Verduras
+FRU_229,Frutas
+CERSNGRASA_352,Cereales sin grasa
+CERCNGRASA_198,Cereales con grasa
+LEGUM_35,Leguminosas
+AOAMUYBAJOGRASA_233,Alimentos de origen animal muy bajo aporte de grasa
+AOABAJOGRASA_138,Alimentos de origen animal bajo aporte de grasa
+AOAMODGRASA_70,Alimentos de origen animal moderado aporte en grasa
+AOAALTOGRASA_144,Alimentos de origen animal alto aporte en grasa
+LECHDESCREM_30,Leche descremada
+LECHSEMIDESCREM_13,Leche semidescremada
+LECHENTERA_36,Leche entera
+LECHAZUCAR_64,Leche con azucar
+ACEITEGRASA_130,Aceite y grasas
+ACEITEGRASACONPROT_103,Aceite y grasas con proteina
+AZUCARSINGRASA_108,Azucares sin grasa
+AZUCARCONGRASA_69,Azucares con grasa
+ALIBRENERGIA_214,Alimentos libres en energia
+BEBALCOHOL_36,Bebidas alcoholicas
+YAKULTDESCREM_4,Yakult leche descremada
+YAKULTSEMIDESCREM_1,Yakult leche semidescremada
+YAKULTCONAZUCAR_4,Yakult leche con azucar
